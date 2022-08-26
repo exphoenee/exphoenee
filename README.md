@@ -1,6 +1,6 @@
 ### Hello World, I'm Viktor - aka exphoenee
 
-[This is my homepage](https://bozzayviktor.hu/)
+[This is my online resume](https://bozzayviktor.hu/)
 
 ## 🌐 Socials:
 
