@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World, I'm Viktor - aka exphoenee
 
-<!--
-**exphoenee/exphoenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[This is my homepage](https://bozzayviktor.hu/)
 
-Here are some ideas to get you started:
+## I'm a Mechnical Engineer and Developer, but I like the software develompnet too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&padding=15&show-other-skills=true"
+/>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=exphoenee&labels=true"
+/>
