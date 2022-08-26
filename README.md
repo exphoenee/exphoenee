@@ -1,5 +1,7 @@
 ### Hello World, I'm Viktor - aka exphoenee
 
+I'm a web developer, mechanical engineering and industrial automation expert!
+
 [This is my online resume](https://bozzayviktor.hu/)
 
 ## 🌐 Socials:
