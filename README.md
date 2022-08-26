@@ -32,7 +32,7 @@
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/exphoenee)
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&show-other-skills=true"
@@ -41,3 +41,4 @@
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=exphoenee&labels=true"
 />
+-->
