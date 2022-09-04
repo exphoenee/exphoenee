@@ -34,7 +34,6 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/exphoenee)
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&skills=JavaScript,TypeScript&show-other-skills=true"
@@ -51,4 +50,3 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=exphoenee&labels=true"
 />
--->
