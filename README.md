@@ -35,7 +35,6 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/exphoenee)
 
 ### My skill gain timegraph:
-<br/>
 <img
   style="width:80%;margin: 0 auto;"
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&show-other-skills=true"
@@ -43,7 +42,6 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 <br/>
 
 ### My rank on Codersrank.io
-<br/>
 <img
   style="width:80%;margin: 0 auto;"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=exphoenee&badges=2&show-avatar=true"
@@ -53,7 +51,6 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 <!--
 
 ### My work experineces:
-<br/>
 <img
   style="width:80%"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=exphoenee&max-items=2&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px"
