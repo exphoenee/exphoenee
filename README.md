@@ -50,6 +50,8 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 />
 <br/>
 
+<!--
+
 ### My work experineces:
 <br/>
 <img
