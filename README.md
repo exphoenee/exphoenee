@@ -37,7 +37,15 @@ I'm a web developer, mechanical engineering and industrial automation expert!
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&skills=JavaScript,TypeScript&show-other-skills=true"
+/>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=exphoenee&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=exphoenee&max-items=2&logos=true&style=--item-bg-color:%23f00;--item-border-radius:10px"
 />
 
 <img
