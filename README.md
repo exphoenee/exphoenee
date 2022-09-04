@@ -37,7 +37,7 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 ### My skill gain timegraph:
 <br/>
 <img
-  style="width:80%"
+  style="width:80%;margin: 0 auto;"
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&show-other-skills=true"
 />
 <br/>
@@ -45,7 +45,7 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 ### My rank on Codersrank.io
 <br/>
 <img
-  style="width:80%"
+  style="width:80%;margin: 0 auto;"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=exphoenee&badges=2&show-avatar=true"
 />
 <br/>
