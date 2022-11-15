@@ -52,7 +52,7 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 
 ### My work experineces:
 <img
-  style="width:80%"
+  style="width:80%;background-color:transparend;color:white;"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=exphoenee&max-items=2&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px"
 />
 <br/>
