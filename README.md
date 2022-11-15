@@ -37,14 +37,22 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 ### My skill gain timegraph:
 <img
   style="width: 80%;margin: 0 auto; background-color: transparend; color:white;"
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&show-other-skills=true&style=--header-bg-color:%00000000;--color:%fff;--border-radius:10px"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&show-other-skills=true"
 />
+<!--
+  &style=--header-bg-color:%00000000;--color:%fff;--border-radius:10px
+-->
+
 <br/>
 
 ### My rank on Codersrank.io
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=exphoenee&badges=2&show-avatar=false&style=--header-bg-color:%00000000;--color:%fff;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=exphoenee&badges=2&show-avatar=false"
 />
+<!--
+&style=--header-bg-color:%00000000;--color:%fff;--border-radius:10px
+-->
+
 <br/>
 
 <!--
