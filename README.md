@@ -47,7 +47,7 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 
 ### My rank on Codersrank.io
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=exphoenee&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 <!--
 &style=--header-bg-color:%00000000;--color:%fff;--border-radius:10px
