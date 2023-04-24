@@ -45,7 +45,7 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 
 ### Skill development:
 <img
-  style="width: 100%;margin: 0 auto; background-color: transparend; color:white;"
+  style="width: 60%;margin: 0 auto; background-color: transparend; color:white;"
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&show-other-skills=true"
 />
 <!--
@@ -55,7 +55,7 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 <br/>
 
 ### My rank on Codersrank.io
-<img style="width: 100%;margin: 0 auto;"
+<img style="width: 60%;margin: 0 auto;"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=exphoenee&badges=2&show-avatar=false"
 />
 <!--
@@ -68,7 +68,7 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 
 ### My work experineces:
 <img
-  style="width:80%;"
+  style="width:60%;"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=exphoenee&max-items=2&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px"
 />
 <br/>
@@ -80,7 +80,7 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 
 ### My contributions:
 <img
-  style="width:80%"
+  style="width:50%"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=exphoenee&labels=true"
 />
 -->
