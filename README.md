@@ -43,9 +43,9 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/exphoenee)
 
-### My skill gain timegraph:
+### Skill development:
 <img
-  style="width: 80%;margin: 0 auto; background-color: transparend; color:white;"
+  style="width: 100%;margin: 0 auto; background-color: transparend; color:white;"
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exphoenee&show-other-skills=true"
 />
 <!--
