@@ -21,6 +21,14 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 -->
+
+</div><h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exphoenee&layout=compact&theme=monokai" alt=exphoenee />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=exphoenee&show_icons=true&locale=en&theme=" alt="exphoenee" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=exphoenee&theme=monokai" alt="exphoenee" /></p>
+
 # 📊 GitHub Stats:
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=exphoenee&theme=monokai" height="180em" />
@@ -28,6 +36,8 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exphoenee&theme=monokai" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=exphoenee&theme=monokai" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exphoenee&theme=monokai" height="180em" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=exphoenee&theme=monokai"/>
 
 ## 🏆 GitHub Trophies
 
