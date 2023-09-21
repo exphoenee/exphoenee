@@ -22,15 +22,12 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 -->
 
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exphoenee&layout=compact&theme=monokai" alt=exphoenee />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=exphoenee&show_icons=true&locale=en&theme=" alt="exphoenee" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=exphoenee&theme=monokai" alt="exphoenee" /></p>
 
 # 📊 GitHub Stats:
 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exphoenee&layout=compact&theme=monokai" alt=exphoenee />
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=exphoenee&show_icons=true&locale=en&theme=monokai" alt="exphoenee" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=exphoenee&theme=monokai" alt="exphoenee" /></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=exphoenee&theme=monokai" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exphoenee&theme=monokai" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exphoenee&theme=monokai" height="180em" />
