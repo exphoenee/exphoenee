@@ -34,7 +34,7 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=exphoenee&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exphoenee&theme=monokai" alt="exphoenee" /></a> </p>
 
 ### ✍️ Random Dev Quote
 
