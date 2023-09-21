@@ -21,17 +21,15 @@ I'm a web developer, mechanical engineering and industrial automation expert!
 -->
 
 # 📊 GitHub Stats:
-<div style={display: flex, gap: "1rem"}>
-<span><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exphoenee&layout=compact&theme=monokai" alt=exphoenee /></span>
-<span><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=exphoenee&show_icons=true&locale=en&theme=monokai" alt="exphoenee" /></span>
-<span><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=exphoenee&theme=monokai" alt="exphoenee" /></span>
-<span><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=exphoenee&theme=monokai" height="180em" /></span>
-<span><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exphoenee&theme=monokai" height="180em" /></span>
-<span><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exphoenee&theme=monokai" height="180em" /></span>
-<span><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=exphoenee&theme=monokai" height="180em" /></span>
-<span><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exphoenee&theme=monokai" height="180em" /></span>
-<span><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
-</div>
+<span>&bpns;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exphoenee&layout=compact&theme=monokai" alt=exphoenee /></span>
+<span>&bpns;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=exphoenee&show_icons=true&locale=en&theme=monokai" alt="exphoenee" /></span>
+<span>&bpns;<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=exphoenee&theme=monokai" alt="exphoenee" /></span>
+<span>&bpns;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=exphoenee&theme=monokai" height="180em" /></span>
+<span>&bpns;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exphoenee&theme=monokai" height="180em" /></span>
+<span>&bpns;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exphoenee&theme=monokai" height="180em" /></span>
+<span>&bpns;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=exphoenee&theme=monokai" height="180em" /></span>
+<span>&bpns;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exphoenee&theme=monokai" height="180em" /></span>
+<span>&bpns;<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
   
 ## ⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=exphoenee&theme=monokai"/>
