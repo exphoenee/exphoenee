@@ -150,6 +150,7 @@ Also on the VS Code Marketplace: [**AGX AI Translation Helper**](https://marketp
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [**Dev Pain Store**](https://dev-pain.store/) | Music Store for my AI albums | `SvelteKit` `Shadcn` `Stripe` `Cloudflare D1 R2 Host` |
 | [**Dev Portfolio**](https://exphoenee.github.io/dev-portfolio/) | Portfolio site in 7 locales, fully data-driven from a single source of truth | `Vanilla JS` `ES Modules` `CSS` |
 | [**Online CV**](https://viktor.bozzay.online/) | Interactive CV with role-tailored views — and a playable game mode | `Vanilla JS` `Playwright` `Formspree` |
 | [**Realtime Space Travel**](https://github.com/exphoenee/realtime_space_travel) | Real-time space travel game with face-detection controls and payments | `React` `TypeScript` `Firebase` `TensorFlow.js` `Stripe` |
