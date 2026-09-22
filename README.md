@@ -22,7 +22,7 @@
 ## 👋 About me
 
 ```ts
-const viktor = {
+const exphoenee = {
   role:      "Frontend Tech Lead @ Aegex Technologies",
   location:  "Pécs, Hungary 🇭🇺",
   focus:     ["frontend architecture", "system design", "legacy modernization"],
